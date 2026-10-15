@@ -1,0 +1,2 @@
+# financebuddyai
+My financebuddyAI website
